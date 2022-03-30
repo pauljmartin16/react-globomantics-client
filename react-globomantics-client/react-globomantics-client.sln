@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "react-globomantics-client", "react-globomantics-client\react-globomantics-client.csproj", "{352A76B5-47EC-4F44-80B0-4E9EBC669786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{352A76B5-47EC-4F44-80B0-4E9EBC669786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352A76B5-47EC-4F44-80B0-4E9EBC669786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352A76B5-47EC-4F44-80B0-4E9EBC669786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352A76B5-47EC-4F44-80B0-4E9EBC669786}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20EF32CD-3E85-4006-9558-B3AFB8C323AB}
+	EndGlobalSection
+EndGlobal
